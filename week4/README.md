@@ -1,5 +1,5 @@
 
-At first, I tried to create different combinations with just circles and colors.
+At first, I tried to create a new pattern with different combinations of circles and colors.
 
 
 ![01  week-first-try](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/c27163e9-0ff3-4af4-a818-3b0ce24e931c)
