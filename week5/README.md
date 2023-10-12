@@ -13,7 +13,7 @@ Back in my childhood, 'Super Mario' was my favorite and I used to play it mostly
 Thus, I created pixels in the style of 8-bit games, using the iconic 'Super Mario' color palette.  
 These games hold a lot of childhood memories for me.
 
-**And this is a result**
+**And this is the result**
 
 <img width="1654" alt="image" src="https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/ce6cf20b-30d4-4a06-9938-ebae74eb7b03">  
 
