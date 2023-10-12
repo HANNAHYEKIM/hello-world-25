@@ -1,5 +1,5 @@
 There are countless games in the world, but when I hear the word 'game',  
-8-bit classics immediately pop into my mind. 
+8-bit classics immediately pop into my mind. This is because 8-bit game is a pixel art!  
 (To be honest, I'm not a game person 😂)
 
 So when I was given an assignment, the idea of "Game" was the first thing that came to me.  
