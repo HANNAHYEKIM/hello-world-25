@@ -1,17 +1,18 @@
+There are countless games in the world, but when I hear the word 'game', 8-bit classics immediately pop into my mind. 
+(To be honest, I'm not a game person 😂)
 
-There are countless games in the world, but for me, the term 'game' instantly brings to mind 8-bit games.  
-(Admittedly, I'm not much of a gamer though 😂)
+So when I was given an assignment, the idea of "Game" was the first thing that came to me.  
+That's why I decided to go for an 8-bit game-inspired design.
 
-So when I was given an assignment to create custom pixels, the concept of "Game" immediately sprung to my mind.  
-Thus, I decided to craft an output that exudes an 8-bit game vibe.
-
-In my younger days, I spent many hours playing 'Super Mario' with my sister! :)  
+Back in my childhood days, 'Super Mario' was a favorite thing with my older sister! :)
 
 Like this ⬇️
 
-![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/49aae29a-559c-4c8a-aa47-cf01eef349d2)
+![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/49aae29a-559c-4c8a-aa47-cf01eef349d2)  
 
-Therefore, it seemed only fitting that I would attempt to create an '8-bit game style' visual using the iconic color palette of 'Super Mario'.  
+
+Thus, I created pixels in the style of 8-bit games, using the iconic 'Super Mario' color palette.  
+These games hold a lot of childhood memories for me.
 
 And this is a result ⬇️
 
