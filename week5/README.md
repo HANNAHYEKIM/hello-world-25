@@ -1,12 +1,10 @@
-There are countless games in the world, but when I hear the word 'game',  
-8-bit classics immediately pop into my mind.   
+There are countless games in the world, but when I hear the word 'game', 8-bit classics immediately pop into my mind.   
 (To be honest, I'm not a game person 😂)
 
 When I was given an assignment, the idea of "Game" was the first thing that came to me.  
-This is because 8-bit game is a pixel art!  
-That's why I decided to go for an 8-bit game-inspired design.
+This is because 8-bit game is a pixel art! That's why I decided to go for an 8-bit game-inspired design.
 
-Back in my childhood, 'Super Mario' was my favorite and I used to play it mostly with my sister!! :)
+Back in my childhood, 'Super Mario' was my favorite and I used to play it mostly with my sister!! :)  
 
 
 ![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/49aae29a-559c-4c8a-aa47-cf01eef349d2)  
