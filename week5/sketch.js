@@ -29,9 +29,9 @@ function draw() {
             let brightness =(r+g+b)/3 /255;
 
              if(brightness >0.8){
-                fill(189,183,107); // khaki (coin color)
+                fill(252,242,7); // Yellow (coin color)
               }else if(brightness >0.6){
-                fill(139,69,19); // saddle brown (brick color)
+                fill(252,79,0); // saddle brown (brick color)
               }else if(brightness >0.4){
                 fill(220,20 ,60); // crimson (mario's clothes color)
               }else if(brightness >0.2){
