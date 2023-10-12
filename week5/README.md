@@ -16,5 +16,8 @@ These games hold a lot of childhood memories for me.
 
 And this is a result ⬇️
 
-<img width="1759" alt="Screenshot 2023-10-12 at 1 32 31 AM" src="https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/65bfbf83-faea-4766-955c-0aff6d6a4664">
+<img width="1654" alt="image" src="https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/ce6cf20b-30d4-4a06-9938-ebae74eb7b03">
 
+Moreover, I've added just as Super Mario grows bigger after eating a mushroom, here too, the pixels enlarge each time you press the up arrow key.  
+
+<img width="1652" alt="Screenshot 2023-10-12 at 2 07 56 AM" src="https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/67ae7778-fdda-4cb2-900e-e7abf05560eb">
