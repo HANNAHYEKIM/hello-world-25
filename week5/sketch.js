@@ -1,4 +1,7 @@
 let capture;
+let pixelSize = 10;
+let keyPressCount = 0;
+
 function setup() {
   createCanvas(640, 480);
   capture = createCapture(VIDEO);
@@ -10,8 +13,12 @@ function draw() {
 
    capture.loadPixels();
 
-  
-   let pixelSize =10; 
+
+   if (keyIsDown(UP_ARROW) && keyPressCount < 10) {
+    pixelSize++;
+    keyPressCount++;
+   }
+
     for (let y =0; y <capture.height; y+=pixelSize){
         for (let x=0; x<capture.width; x+=pixelSize){
             const index =(x+y*capture.width)*4;
@@ -21,7 +28,6 @@ function draw() {
 
             let brightness =(r+g+b)/3 /255;
 
-            
              if(brightness >0.8){
                 fill(189,183,107); // khaki (coin color)
               }else if(brightness >0.6){
