@@ -6,7 +6,7 @@ When I was given an assignment, the idea of "Game" was the first thing that came
 This is because 8-bit game is a pixel art!  
 That's why I decided to go for an 8-bit game-inspired design.
 
-Back in my childhood days, 'Super Mario' was a favorite thing with my older sister! :)
+Back in my childhood, 'Super Mario' was my favorite thing and usually I played with my older sister! :)
 
 
 ![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/49aae29a-559c-4c8a-aa47-cf01eef349d2)  
