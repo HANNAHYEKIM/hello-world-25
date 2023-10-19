@@ -1,5 +1,4 @@
 This game draws inspiration from the classic Tamagotchi device.  
-It's a simple simulation with four main functions, each represented as a button on the screen.  
 <br/>
 <br/>
 ![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/1c2e2772-65a9-40be-89f1-4a379dae37ad)  
@@ -10,6 +9,7 @@ The Tamagotchi is a keychain-sized virtual pet simulation game where players can
 <br/>
 <br/>
 And here, this is my version of Tamagotchi :)  
+It's a simple simulation with four main functions, each represented as a button on the screen.  
 <br/>
 <img width="1920" alt="Screenshot 2023-10-18 at 11 19 51 PM" src="https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/88cbeb22-1b5e-48ae-bad6-21b32ff1e2a2">
 <br/>
@@ -59,5 +59,5 @@ If you need to start over, you use the 'Reset' button. This action restores the 
 <br/>
 <br/>
 
-This game is a straightforward homage to the Tamagotchis, focusing on simple interactions between the user and the virtual creature.  
+I focused on simple interactions between the user and the virtual creature.  
 While recreating a game I often played in my childhood, I found myself growing fond of the little circle. ⚪️
