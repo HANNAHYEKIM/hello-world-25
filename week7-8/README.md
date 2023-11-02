@@ -7,7 +7,7 @@ I got Inspired by Google's dinosaur game.
 
 I am a 100% cat person, so I want to create an adventure game with cats :)  
 
-This is game is about a cat is traveling through the desert, eating food and avoiding Cactus.  
+This game is about a cat is traveling through the desert, eating food and avoiding Cactus.  
 If the cat find more tuna cans, it can get more score!  
 
 And here is my game 🐈  
