@@ -1,4 +1,5 @@
-Hi! This is my one button game.  
+Hi! This is my one button game. 
+
 I got Inspired by Google's dinosaur game. 
 
 ![image](https://github.com/HANNAHYEKIM/hello-world-25/assets/145718273/4375705b-87bd-47f3-9c6f-da8486b27f98)
