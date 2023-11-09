@@ -7,8 +7,8 @@ let obstacles = [];
 let clouds = [];
 let catYPos; 
 let catYVelocity = 0; 
-let jumpForce = -10;  // 고양이 점프력
-let gravity = 1.0;   // 중력
+let jumpForce = -10;  
+let gravity = 1.0;  
 
 function preload() {
   buttonImg = loadImage('button1.png');
@@ -43,8 +43,8 @@ function draw() {
     image(button2Img, width/2 - buttonImg.width/2, height - buttonImg.height - 64);
     displayClouds();
     handleObstacles();
-    moveCat();  // 이 부분의 위치를 변경하여 고양이가 상단에 나타나도록 수정했습니다.
-    displayScore();  // 점수 표시 추가
+    moveCat();  
+    displayScore();  
   }
 }
 
@@ -56,7 +56,7 @@ function displayScore() {
 
 function moveCat() {
   if (isJumping && catYPos === height - catImg.height - 244) {
-    catYVelocity = -sqrt(2 * 9.81 * 50); // 변경된 부분: 최대 높이를 178px로 설정
+    catYVelocity = -sqrt(2 * 9.81 * 50); 
   }
   catYVelocity += gravity;
   catYPos += catYVelocity;
@@ -71,7 +71,7 @@ function moveCat() {
 
 function displayClouds() {
   for (let cloud of clouds) {
-    image(cloud.img, cloud.x, cloud.y, cloud.width, cloud.height);  // cloud의 크기를 랜덤하게 조절
+    image(cloud.img, cloud.x, cloud.y, cloud.width, cloud.height);  
     cloud.x -= cloud.speed;
     
     if (cloud.x < -cloud.width) {
@@ -114,7 +114,7 @@ class Obstacle {
 checkCollision(catX, catY, catWidth, catHeight) {
     if (catX + catWidth > this.x && catX < this.x + this.img.width && 
         catY + catHeight > this.y && catY < this.y + this.img.height) {
-      return true;  // 여기를 수정했습니다.
+      return true;  
     }
     return false;
 }
@@ -122,7 +122,7 @@ checkCollision(catX, catY, catWidth, catHeight) {
 }
 
 function handleObstacles() {
-  let spacing = random(1000, 1500); // 장애물 사이의 간격 설정
+  let spacing = random(1000, 1500); 
 
   if (obstacles.length === 0 || (obstacles[obstacles.length - 1].x < width - spacing)) {
     let choice = floor(random(1, 5));
@@ -144,9 +144,9 @@ function handleObstacles() {
 
     if (obstacles[i].checkCollision(catX, catY, catImg.width, catImg.height)) {
       if (obstacles[i].type === 'can') {
-        score += 50;  // can을 먹었을 때 점수 +50
-        obstacles.splice(i, 1);  // can 장애물 제거
-      } else if (obstacles[i].type.startsWith('cactus')) {  // 장애물이 선인장이면
+        score += 50;  
+        obstacles.splice(i, 1); 
+      } else if (obstacles[i].type.startsWith('cactus')) { 
         noLoop();
         fill(255, 0, 0);
         textSize(72);
@@ -155,7 +155,7 @@ function handleObstacles() {
       }
     } else if (obstacles[i].x + obstacles[i].img.width < 0) {
       if (obstacles[i].type.startsWith('cactus')) {
-        score += 10;  // 선인장을 지나쳤을 때 점수 +10
+        score += 10;  
       }
       obstacles.splice(i, 1);
     }
